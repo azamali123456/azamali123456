@@ -25,11 +25,9 @@ I'm a passionate and results-driven **MERN Stack Developer** with **4+ years of 
 - **Database Design**: MongoDB schema design and optimization
 - **API Development**: RESTful APIs and backend architecture
 
-
 <div align="center">
 
 ### 🔥 GitHub Activity & Statistics
-
 
 <p align="center">
   <a href="https://github.com/azamalidev">
